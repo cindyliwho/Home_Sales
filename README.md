@@ -35,11 +35,6 @@ The dataset is loaded from an AWS S3 source and contains home sales records with
 
 ---
 
-## Project Structure
-├── Home_Sales.ipynb # Main analysis notebook
-└── README.md # Project documentation
-
----
 
 ## Key Tasks & Analysis
 
